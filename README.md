@@ -1,2 +1,2 @@
-# Estrutura-de-dados-cpp
+# Estruturas-de-dados-cpp
 Algoritmos desenvolvidos na disciplina de Estrutura de dados, majoritariamente para a resolução de desafios do Leetcode.
